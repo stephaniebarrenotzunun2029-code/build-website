@@ -1,0 +1,31 @@
+<html>
+      <head>
+            <title> About Product infomation</title>
+      </head>
+      <body>
+            <header>
+                    <ul>
+                        <li><a>href="index.html">Click here to go to Homepage</a>              </li>
+                        <li><a>href="contactpage">Click here to go to the contactpage</a>      </li>
+                        <li><a>href="infopage">click here to get info about this website!</a>  </li>
+                    </ul>
+            </header>
+            
+
+
+
+      </body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
