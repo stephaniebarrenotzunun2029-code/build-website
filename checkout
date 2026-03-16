@@ -6,5 +6,9 @@
         <header>
             <a href="index.html">Home</a>  
         </header>
+        <main>
+            <h1>Checkout</h1>
+            <p>Welcome to the checkout page!</p>
+        </main>
         <img src="assets/hosniye-sadeghi-rvF5EglUXWg-unsplash.jpg" alt="Flower Necklace"/>
 </html>
